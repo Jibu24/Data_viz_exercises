@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"name": "Data_viz_exercises",
+			"path": "."
+		},
+		{
+			"path": "../../Downloads/stock_market_data/nasdaq"
+		}
+	],
+	"settings": {}
+}
